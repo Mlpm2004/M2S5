@@ -1,0 +1,12 @@
+C:\Users\55489\source\M2S5Exercicios\src\ClassExercicios\bin\Debug\net6.0\ClassExercicios.deps.json
+C:\Users\55489\source\M2S5Exercicios\src\ClassExercicios\bin\Debug\net6.0\ClassExercicios.dll
+C:\Users\55489\source\M2S5Exercicios\src\ClassExercicios\bin\Debug\net6.0\ClassExercicios.pdb
+C:\Users\55489\source\M2S5Exercicios\src\ClassExercicios\obj\Debug\net6.0\ClassExercicios.csproj.AssemblyReference.cache
+C:\Users\55489\source\M2S5Exercicios\src\ClassExercicios\obj\Debug\net6.0\ClassExercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55489\source\M2S5Exercicios\src\ClassExercicios\obj\Debug\net6.0\ClassExercicios.AssemblyInfoInputs.cache
+C:\Users\55489\source\M2S5Exercicios\src\ClassExercicios\obj\Debug\net6.0\ClassExercicios.AssemblyInfo.cs
+C:\Users\55489\source\M2S5Exercicios\src\ClassExercicios\obj\Debug\net6.0\ClassExercicios.csproj.CoreCompileInputs.cache
+C:\Users\55489\source\M2S5Exercicios\src\ClassExercicios\obj\Debug\net6.0\ClassExercicios.dll
+C:\Users\55489\source\M2S5Exercicios\src\ClassExercicios\obj\Debug\net6.0\refint\ClassExercicios.dll
+C:\Users\55489\source\M2S5Exercicios\src\ClassExercicios\obj\Debug\net6.0\ClassExercicios.pdb
+C:\Users\55489\source\M2S5Exercicios\src\ClassExercicios\obj\Debug\net6.0\ref\ClassExercicios.dll
